@@ -49,10 +49,10 @@ SHA-256: 62aaff9a192e8d3e462b352a4b435bcacc38c2390aa9c0dbf9c863942401adf0
 자동 빌드/자동 인덱스 갱신은 소스 레포에서 관리합니다.
 
 ```text
-https://github.com/oneulddu/Korean-Mihon-Extensions-Source/actions/workflows/build_xtoon_release.yml
+https://github.com/oneulddu/Korean-Mihon-Extensions-Source/actions/workflows/build_extensions_release.yml
 ```
 
-해당 workflow가 Xtoon APK를 빌드하고 이 레포의 `repo` 브랜치에 APK, 아이콘, `index.json`, `index.min.json`, `repo.json`을 갱신합니다.
+해당 workflow가 한국어 확장 APK를 빌드하고 이 레포의 `repo` 브랜치에 APK, 아이콘, `index.json`, `index.min.json`, `repo.json`을 갱신합니다.
 
 ## 주의
 
