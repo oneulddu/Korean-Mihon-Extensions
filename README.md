@@ -12,8 +12,15 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 
 ## 배포 파일
 
-- APK: `apk/tachiyomi-ko.xtoon-v1.4.4-release.apk`
-- 아이콘: `icon/eu.kanade.tachiyomi.extension.ko.xtoon.png`
+- `11toon`: `apk/tachiyomi-ko.toon11-v1.4.2-release.apk`
+- `BlackToon`: `apk/tachiyomi-ko.blacktoon-v1.4.1-release.apk`
+- `Manatoki`: `apk/tachiyomi-ko.manatoki-v1.4.1-release.apk`
+- `Naver Comic`: `apk/tachiyomi-ko.navercomic-v1.4.7-release.apk`
+- `NTK`: `apk/tachiyomi-ko.ntk-v1.4.1-release.apk`
+- `Toonkor`: `apk/tachiyomi-ko.toonkor-v1.4.6-release.apk`
+- `Wolf.com`: `apk/tachiyomi-ko.wolfdotcom-v1.4.3-release.apk`
+- `Xtoon`: `apk/tachiyomi-ko.xtoon-v1.4.4-release.apk`
+
 - 구형 저장소 목록: `index.min.json`
 - 신형 저장소 목록: `index.json`
 - 저장소 정보: `repo.json`
@@ -26,20 +33,12 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 https://github.com/oneulddu/Korean-Mihon-Extensions-Source
 ```
 
-## 현재 배포 버전
-
-```text
-version: 1.4.4
-versionCode: 4
-baseUrl: https://t3.xtoon365.com
-```
-
 ## 서명 정보
 
 현재 APK는 release 키로 서명되어 있습니다.
 
 ```text
-SHA-256: 62aaff9a192e8d3e462b352a4b435bcacc38c2390aa9c0dbf9c863942401adf0
+SHA-256: b25af02d178fad20ebe739e59336f2ae5e307dcd1375418278e752dba03497cb
 ```
 
 `signingkey.jks`와 `signing.env`는 Git에 올리지 않고 별도로 보관합니다.

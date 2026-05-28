@@ -1,12 +1,187 @@
 {
   "name": "Korean Mihon Extensions",
   "badgeLabel": "KOR",
-  "signingKey": "62aaff9a192e8d3e462b352a4b435bcacc38c2390aa9c0dbf9c863942401adf0",
+  "signingKey": "b25af02d178fad20ebe739e59336f2ae5e307dcd1375418278e752dba03497cb",
   "contact": {
     "website": "https://github.com/oneulddu/Korean-Mihon-Extensions",
     "source": "https://github.com/oneulddu/Korean-Mihon-Extensions-Source"
   },
   "extensions": [
+    {
+      "name": "11toon",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.toon11",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.toon11-v1.4.2-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.toon11.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "8796296375202334266",
+          "name": "11toon",
+          "language": "ko",
+          "homeUrl": "https://www.11toon.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "BlackToon",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.blacktoon",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.blacktoon-v1.4.1-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.blacktoon.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "7080800841003944426",
+          "name": "블랙툰",
+          "language": "ko",
+          "homeUrl": "https://blacktoon.me",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Manatoki",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.manatoki",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.manatoki-v1.4.1-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.manatoki.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "3581741214949868596",
+          "name": "Manatoki",
+          "language": "ko",
+          "homeUrl": "https://manatoki552.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Naver Comic",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.navercomic",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.navercomic-v1.4.7-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.navercomic.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 7,
+      "versionName": "1.4.7",
+      "sources": [
+        {
+          "id": "1311262507446028482",
+          "name": "Naver Webtoon",
+          "language": "ko",
+          "homeUrl": "https://comic.naver.com",
+          "contentRating": "CONTENT_RATING_SAFE"
+        },
+        {
+          "id": "3983114856627782141",
+          "name": "Naver Webtoon Best Challenge",
+          "language": "ko",
+          "homeUrl": "https://comic.naver.com",
+          "contentRating": "CONTENT_RATING_SAFE"
+        },
+        {
+          "id": "4487676425355815867",
+          "name": "Naver Webtoon Challenge",
+          "language": "ko",
+          "homeUrl": "https://comic.naver.com",
+          "contentRating": "CONTENT_RATING_SAFE"
+        }
+      ]
+    },
+    {
+      "name": "NTK",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.1-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "50660466465629892",
+          "name": "NTK Manga",
+          "language": "ko",
+          "homeUrl": "https://sbxh3.com/manhwa",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8502946974566317875",
+          "name": "NTK Webtoon",
+          "language": "ko",
+          "homeUrl": "https://sbxh3.com/ing",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Toonkor",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.toonkor",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.toonkor-v1.4.6-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.toonkor.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 6,
+      "versionName": "1.4.6",
+      "sources": [
+        {
+          "id": "6596496791271983268",
+          "name": "Toonkor",
+          "language": "ko",
+          "homeUrl": "https://tkor114.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Wolf.com",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "5583626852311652499",
+          "name": "늑대닷컴 - 웹툰",
+          "language": "ko",
+          "homeUrl": "https://wfwf393.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7074060458114951398",
+          "name": "늑대닷컴 - 만화책",
+          "language": "ko",
+          "homeUrl": "https://wfwf393.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4225505094399546613",
+          "name": "늑대닷컴 - 포토툰",
+          "language": "ko",
+          "homeUrl": "https://wfwf393.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
     {
       "name": "Xtoon",
       "packageName": "eu.kanade.tachiyomi.extension.ko.xtoon",
