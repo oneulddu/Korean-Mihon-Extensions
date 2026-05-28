@@ -105,12 +105,12 @@
       "name": "NTK",
       "packageName": "eu.kanade.tachiyomi.extension.ko.ntk",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.2-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.ntk-v1.4.3-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.ntk.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 2,
-      "versionName": "1.4.2",
+      "versionCode": 3,
+      "versionName": "1.4.3",
       "sources": [
         {
           "id": "50660466465629892",
