@@ -52,9 +52,13 @@ SHA-256: 62aaff9a192e8d3e462b352a4b435bcacc38c2390aa9c0dbf9c863942401adf0
 
 ## GitHub Actions
 
-현재는 자동 빌드/자동 배포를 사용하지 않습니다. APK와 인덱스 파일을 수동으로 갱신합니다.
+자동 빌드/자동 인덱스 갱신은 소스 레포에서 관리합니다.
 
-Keiyoushi처럼 소스 레포에서 빌드 후 배포 레포로 자동 푸시하려면 GitHub Actions와 배포 토큰을 추가하면 됩니다.
+```text
+https://github.com/oneulddu/Korean-Mihon-Extensions-Source/actions/workflows/build_xtoon_release.yml
+```
+
+해당 workflow가 Xtoon APK를 빌드하고 이 레포의 `repo` 브랜치에 APK, 아이콘, `index.json`, `index.min.json`, `repo.json`을 갱신합니다.
 
 ## 주의
 
