@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/oneulddu/Xtoon-Mihon-Extension/main/index.min.
 확장 소스와 Gradle 빌드 환경은 별도 레포로 분리했습니다.
 
 ```text
-https://github.com/oneulddu/Xtoon-Mihon-Extension-Source
+https://github.com/oneulddu/Korean-Mihon-Extensions-Source
 ```
 
 ## 현재 배포 버전
