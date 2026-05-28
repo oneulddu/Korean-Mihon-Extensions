@@ -1,19 +1,19 @@
-# Xtoon Mihon Extension Repo
+# Korean Mihon Extensions Repo
 
-Xtoon Mihon/Tachiyomi 확장 배포 전용 저장소입니다.
+한국어 Mihon/Tachiyomi 확장 배포 전용 저장소입니다.
 
 ## Mihon 저장소 추가 URL
 
 Keiyoushi 배포 레포처럼 `repo` 브랜치를 배포 브랜치로 사용합니다.
 
 ```text
-https://raw.githubusercontent.com/oneulddu/Xtoon-Mihon-Extension/repo/index.min.json
+https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.min.json
 ```
 
 기존 `main` 주소도 현재는 같은 파일을 가리키도록 유지합니다.
 
 ```text
-https://raw.githubusercontent.com/oneulddu/Xtoon-Mihon-Extension/main/index.min.json
+https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/main/index.min.json
 ```
 
 ## 배포 파일
