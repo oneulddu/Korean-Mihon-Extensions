@@ -10,12 +10,6 @@ Keiyoushi 배포 레포처럼 `repo` 브랜치를 배포 브랜치로 사용합�
 https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.min.json
 ```
 
-기존 `main` 주소도 현재는 같은 파일을 가리키도록 유지합니다.
-
-```text
-https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/main/index.min.json
-```
-
 ## 배포 파일
 
 - APK: `apk/tachiyomi-ko.xtoon-v1.4.4-release.apk`
@@ -42,7 +36,7 @@ baseUrl: https://t3.xtoon365.com
 
 ## 서명 정보
 
-현재 APK는 로컬 release 키로 서명되어 있습니다.
+현재 APK는 release 키로 서명되어 있습니다.
 
 ```text
 SHA-256: 62aaff9a192e8d3e462b352a4b435bcacc38c2390aa9c0dbf9c863942401adf0
