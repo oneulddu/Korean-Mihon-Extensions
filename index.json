@@ -129,6 +129,26 @@
       ]
     },
     {
+      "name": "RawDEX",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.rawdex",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.rawdex-v1.4.53-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.rawdex.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 53,
+      "versionName": "1.4.53",
+      "sources": [
+        {
+          "id": "7981220701421282731",
+          "name": "RawDEX",
+          "language": "ko",
+          "homeUrl": "https://rawdex.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Toonkor",
       "packageName": "eu.kanade.tachiyomi.extension.ko.toonkor",
       "resources": {

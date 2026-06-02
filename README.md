@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 - `Manatoki`: `apk/tachiyomi-ko.manatoki-v1.4.1-release.apk`
 - `Naver Comic`: `apk/tachiyomi-ko.navercomic-v1.4.7-release.apk`
 - `NTK`: `apk/tachiyomi-ko.ntk-v1.4.7-release.apk`
+- `RawDEX`: `apk/tachiyomi-ko.rawdex-v1.4.53-release.apk`
 - `Toonkor`: `apk/tachiyomi-ko.toonkor-v1.4.6-release.apk`
 - `Wolf.com`: `apk/tachiyomi-ko.wolfdotcom-v1.4.3-release.apk`
 - `Xtoon`: `apk/tachiyomi-ko.xtoon-v1.4.4-release.apk`
