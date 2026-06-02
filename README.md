@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 ## 배포 파일
 
 - `11toon`: `apk/tachiyomi-ko.toon11-v1.4.2-release.apk`
-- `BlackToon`: `apk/tachiyomi-ko.blacktoon-v1.4.1-release.apk`
+- `BlackToon`: `apk/tachiyomi-ko.blacktoon-v1.4.2-release.apk`
 - `Manatoki`: `apk/tachiyomi-ko.manatoki-v1.4.1-release.apk`
 - `Naver Comic`: `apk/tachiyomi-ko.navercomic-v1.4.7-release.apk`
 - `NTK`: `apk/tachiyomi-ko.ntk-v1.4.7-release.apk`
