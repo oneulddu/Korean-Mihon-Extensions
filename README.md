@@ -44,10 +44,11 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 | 확장 | 버전 | 사이트 | 패키지 |
 | :--- | :--: | :--- | :--- |
 | 11toon | `1.4.2` | [11toon.com](https://www.11toon.com) | `…ko.toon11` |
-| BlackToon | `1.4.1` | [blacktoon.me](https://blacktoon.me) | `…ko.blacktoon` |
+| BlackToon | `1.4.3` | [blacktoon.me](https://blacktoon.me) | `…ko.blacktoon` |
 | Manatoki | `1.4.1` | [manatoki552.net](https://manatoki552.net) | `…ko.manatoki` |
 | Naver Comic | `1.4.7` | [comic.naver.com](https://comic.naver.com) | `…ko.navercomic` |
 | NTK | `1.4.7` | [sbxh3.com](https://sbxh3.com/manhwa) | `…ko.ntk` |
+| RawDEX | `1.4.53` | [rawdex.net](https://rawdex.net) | `…ko.rawdex` |
 | Toonkor | `1.4.6` | [tkor114.com](https://tkor114.com) | `…ko.toonkor` |
 | Wolf.com | `1.4.3` | [wfwf393.com](https://wfwf393.com) | `…ko.wolfdotcom` |
 | Xtoon | `1.4.4` | [t3.xtoon365.com](https://t3.xtoon365.com) | `…ko.xtoon` |
