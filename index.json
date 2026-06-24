@@ -31,18 +31,18 @@
       "name": "BlackToon",
       "packageName": "eu.kanade.tachiyomi.extension.ko.blacktoon",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.blacktoon-v1.4.5-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.blacktoon-v1.4.4-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.blacktoon.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 5,
-      "versionName": "1.4.5",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "7080800841003944426",
           "name": "블랙툰",
           "language": "ko",
-          "homeUrl": "https://blacktoon414.com",
+          "homeUrl": "https://blacktoon413.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -132,12 +132,12 @@
       "name": "RawDEX",
       "packageName": "eu.kanade.tachiyomi.extension.ko.rawdex",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.rawdex-v1.4.53-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.rawdex-v1.4.54-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.rawdex.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "7981220701421282731",
