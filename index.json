@@ -48,6 +48,26 @@
       ]
     },
     {
+      "name": "Jjaptoon",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.jjaptoon",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.jjaptoon-v1.4.1-release.apk",
+        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.jjaptoon.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "6220307967993008309",
+          "name": "짭툰",
+          "language": "ko",
+          "homeUrl": "https://jjaptoon003.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Manatoki",
       "packageName": "eu.kanade.tachiyomi.extension.ko.manatoki",
       "resources": {
