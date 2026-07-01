@@ -41,19 +41,23 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 
 ## 📦 제공 확장
 
+<!-- 아래 표는 소스 레포의 scripts/update_repo.py가 index.json 기준으로 자동 갱신합니다. 직접 수정하지 마세요. -->
+<!-- extensions:start -->
 | 확장 | 버전 | 사이트 | 패키지 |
 | :--- | :--: | :--- | :--- |
-| 11toon | `1.4.2` | [11toon.com](https://www.11toon.com) | `…ko.toon11` |
-| BlackToon | `1.4.3` | [blacktoon.me](https://blacktoon.me) | `…ko.blacktoon` |
+| 11toon | `1.4.2` | [www.11toon.com](https://www.11toon.com) | `…ko.toon11` |
+| BlackToon | `1.4.4` | [blacktoon413.com](https://blacktoon413.com) | `…ko.blacktoon` |
+| Jjaptoon | `1.4.4` | [www.jjabtoon003.com](https://www.jjabtoon003.com) | `…ko.jjaptoon` |
 | Manatoki | `1.4.1` | [manatoki552.net](https://manatoki552.net) | `…ko.manatoki` |
 | Naver Comic | `1.4.7` | [comic.naver.com](https://comic.naver.com) | `…ko.navercomic` |
-| NTK | `1.4.7` | [sbxh3.com](https://sbxh3.com/manhwa) | `…ko.ntk` |
-| RawDEX | `1.4.53` | [rawdex.net](https://rawdex.net) | `…ko.rawdex` |
+| NTK | `1.4.7` | [sbxh3.com/manhwa](https://sbxh3.com/manhwa) | `…ko.ntk` |
+| RawDEX | `1.4.54` | [rawdex.net](https://rawdex.net) | `…ko.rawdex` |
 | Toonkor | `1.4.6` | [tkor114.com](https://tkor114.com) | `…ko.toonkor` |
 | Wolf.com | `1.4.3` | [wfwf393.com](https://wfwf393.com) | `…ko.wolfdotcom` |
 | Xtoon | `1.4.4` | [t3.xtoon365.com](https://t3.xtoon365.com) | `…ko.xtoon` |
+<!-- extensions:end -->
 
-> 버전 정보는 [`index.json`](index.json)을 기준으로 자동 갱신됩니다.
+> 위 표는 소스 레포의 빌드 워크플로가 [`index.json`](index.json)을 기준으로 자동 갱신합니다.
 
 ---
 
@@ -91,7 +95,8 @@ https://github.com/oneulddu/Korean-Mihon-Extensions-Source
 ```
 
 [GitHub Actions 워크플로](https://github.com/oneulddu/Korean-Mihon-Extensions-Source/actions/workflows/build_extensions_release.yml)가
-확장 APK를 빌드한 뒤, 이 레포의 `repo` 브랜치에 APK·아이콘·`index.json`·`index.min.json`·`repo.json`을 자동으로 갱신합니다.
+확장 APK를 빌드한 뒤, 이 레포의 `repo` 브랜치에 APK·아이콘·`index.json`·`index.min.json`·`repo.json`과
+위 확장 표(`README.md`)를 자동으로 갱신합니다.
 
 ---
 
