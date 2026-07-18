@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 <!-- extensions:start -->
 | 확장 | 버전 | 사이트 | 패키지 |
 | :--- | :--: | :--- | :--- |
-| 11toon | `1.4.2` | [www.11toon.com](https://www.11toon.com) | `…ko.toon11` |
+| 11toon | `1.4.3` | [www.11toon.com](https://www.11toon.com) | `…ko.toon11` |
 | BlackToon | `1.4.6` | [blacktoon415.com](https://blacktoon415.com) | `…ko.blacktoon` |
 | Jjaptoon | `1.4.6` | [www.jjaptoon003.com](https://www.jjaptoon003.com) | `…ko.jjaptoon` |
 | Manatoki | `1.4.1` | [manatoki552.net](https://manatoki552.net) | `…ko.manatoki` |
