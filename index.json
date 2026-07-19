@@ -192,12 +192,12 @@
       "name": "Wolf.com",
       "packageName": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.5-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.6-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 5,
-      "versionName": "1.4.5",
+      "versionCode": 6,
+      "versionName": "1.4.6",
       "sources": [
         {
           "id": "4155011175704017961",
