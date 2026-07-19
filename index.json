@@ -192,32 +192,32 @@
       "name": "Wolf.com",
       "packageName": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.4-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "5583626852311652499",
           "name": "늑대닷컴 - 웹툰",
           "language": "ko",
-          "homeUrl": "https://wfwf393.com",
+          "homeUrl": "https://wfwf421.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "7074060458114951398",
           "name": "늑대닷컴 - 만화책",
           "language": "ko",
-          "homeUrl": "https://wfwf393.com",
+          "homeUrl": "https://wfwf421.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "4225505094399546613",
           "name": "늑대닷컴 - 포토툰",
           "language": "ko",
-          "homeUrl": "https://wfwf393.com",
+          "homeUrl": "https://wfwf421.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
