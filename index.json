@@ -226,12 +226,12 @@
       "name": "Xtoon",
       "packageName": "eu.kanade.tachiyomi.extension.ko.xtoon",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.xtoon-v1.4.4-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.xtoon-v1.4.5-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.xtoon.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 4,
-      "versionName": "1.4.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
       "sources": [
         {
           "id": "1732858837197401514",
