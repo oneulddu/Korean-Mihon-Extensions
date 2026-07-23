@@ -22,7 +22,7 @@
           "id": "8796296375202334266",
           "name": "11toon",
           "language": "ko",
-          "homeUrl": "https://www.11toon.com",
+          "homeUrl": "https://www.spotv148.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -63,26 +63,6 @@
           "name": "짭툰",
           "language": "ko",
           "homeUrl": "https://www.jjaptoon004.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "Manatoki",
-      "packageName": "eu.kanade.tachiyomi.extension.ko.manatoki",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.manatoki-v1.4.1-release.apk",
-        "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.manatoki.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 1,
-      "versionName": "1.4.1",
-      "sources": [
-        {
-          "id": "3581741214949868596",
-          "name": "Manatoki",
-          "language": "ko",
-          "homeUrl": "https://manatoki552.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -183,7 +163,7 @@
           "id": "6596496791271983268",
           "name": "Toonkor",
           "language": "ko",
-          "homeUrl": "https://tkor136.com",
+          "homeUrl": "https://tkor137.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]

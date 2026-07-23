@@ -45,14 +45,13 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 <!-- extensions:start -->
 | 확장 | 버전 | 사이트 | 패키지 |
 | :--- | :--: | :--- | :--- |
-| 11toon | `1.4.3` | [www.11toon.com](https://www.11toon.com) | `…ko.toon11` |
+| 11toon | `1.4.3` | [www.spotv148.com](https://www.spotv148.com) | `…ko.toon11` |
 | BlackToon | `1.4.11` | [blacktoon417.com](https://blacktoon417.com) | `…ko.blacktoon` |
 | Jjaptoon | `1.4.9` | [www.jjaptoon004.com](https://www.jjaptoon004.com) | `…ko.jjaptoon` |
-| Manatoki | `1.4.1` | [manatoki552.net](https://manatoki552.net) | `…ko.manatoki` |
 | Naver Comic | `1.4.8` | [comic.naver.com](https://comic.naver.com) | `…ko.navercomic` |
 | NTK | `1.4.14` | [sbxh9.com/manhwa](https://sbxh9.com/manhwa) | `…ko.ntk` |
 | RawDEX | `1.4.54` | [rawdex.net](https://rawdex.net) | `…ko.rawdex` |
-| Toonkor | `1.4.9` | [tkor136.com](https://tkor136.com) | `…ko.toonkor` |
+| Toonkor | `1.4.9` | [tkor137.com](https://tkor137.com) | `…ko.toonkor` |
 | Wolf.com | `1.4.8` | [wfwf425.com](https://wfwf425.com) | `…ko.wolfdotcom` |
 | Xtoon | `1.4.5` | [t3.xtoon365.com](https://t3.xtoon365.com) | `…ko.xtoon` |
 <!-- extensions:end -->
