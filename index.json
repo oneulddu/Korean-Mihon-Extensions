@@ -31,18 +31,18 @@
       "name": "BlackToon",
       "packageName": "eu.kanade.tachiyomi.extension.ko.blacktoon",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.blacktoon-v1.4.7-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.blacktoon-v1.4.8-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.blacktoon.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 7,
-      "versionName": "1.4.7",
+      "versionCode": 8,
+      "versionName": "1.4.8",
       "sources": [
         {
           "id": "7080800841003944426",
           "name": "블랙툰",
           "language": "ko",
-          "homeUrl": "https://blacktoon416.com",
+          "homeUrl": "https://blacktoon417.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
