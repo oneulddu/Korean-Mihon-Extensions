@@ -11,12 +11,12 @@
       "name": "11toon",
       "packageName": "eu.kanade.tachiyomi.extension.ko.toon11",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.toon11-v1.4.3-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.toon11-v1.4.4-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.toon11.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "8796296375202334266",

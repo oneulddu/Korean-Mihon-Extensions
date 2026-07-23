@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 <!-- extensions:start -->
 | 확장 | 버전 | 사이트 | 패키지 |
 | :--- | :--: | :--- | :--- |
-| 11toon | `1.4.3` | [www.spotv148.com](https://www.spotv148.com) | `…ko.toon11` |
+| 11toon | `1.4.4` | [www.spotv148.com](https://www.spotv148.com) | `…ko.toon11` |
 | BlackToon | `1.4.12` | [blacktoon417.com](https://blacktoon417.com) | `…ko.blacktoon` |
 | Jjaptoon | `1.4.10` | [www.jjaptoon004.com](https://www.jjaptoon004.com) | `…ko.jjaptoon` |
 | Naver Comic | `1.4.8` | [comic.naver.com](https://comic.naver.com) | `…ko.navercomic` |
