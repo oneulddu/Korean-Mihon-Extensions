@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/repo/index.mi
 | NTK | `1.4.14` | [sbxh9.com/manhwa](https://sbxh9.com/manhwa) | `…ko.ntk` |
 | RawDEX | `1.4.54` | [rawdex.net](https://rawdex.net) | `…ko.rawdex` |
 | Toonkor | `1.4.7` | [tkor136.com](https://tkor136.com) | `…ko.toonkor` |
-| Wolf.com | `1.4.7` | [wfwf425.com](https://wfwf425.com) | `…ko.wolfdotcom` |
+| Wolf.com | `1.4.8` | [wfwf425.com](https://wfwf425.com) | `…ko.wolfdotcom` |
 | Xtoon | `1.4.4` | [t3.xtoon365.com](https://t3.xtoon365.com) | `…ko.xtoon` |
 <!-- extensions:end -->
 
