@@ -152,18 +152,18 @@
       "name": "Toonkor",
       "packageName": "eu.kanade.tachiyomi.extension.ko.toonkor",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.toonkor-v1.4.10-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.toonkor-v1.4.11-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.toonkor.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 10,
-      "versionName": "1.4.10",
+      "versionCode": 11,
+      "versionName": "1.4.11",
       "sources": [
         {
           "id": "6596496791271983268",
           "name": "Toonkor",
           "language": "ko",
-          "homeUrl": "https://tkor137.com",
+          "homeUrl": "https://tkor138.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
