@@ -172,32 +172,32 @@
       "name": "Wolf.com",
       "packageName": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.9-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.10-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
+      "versionCode": 10,
+      "versionName": "1.4.10",
       "sources": [
         {
           "id": "4155011175704017961",
           "name": "늑대닷컴 - 웹툰 연재",
           "language": "ko",
-          "homeUrl": "https://wfwf425.com",
+          "homeUrl": "https://wfwf426.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "1407556520083143896",
           "name": "늑대닷컴 - 웹툰 완결",
           "language": "ko",
-          "homeUrl": "https://wfwf425.com",
+          "homeUrl": "https://wfwf426.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "7074060458114951398",
           "name": "늑대닷컴 - 만화책",
           "language": "ko",
-          "homeUrl": "https://wfwf425.com",
+          "homeUrl": "https://wfwf426.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
