@@ -51,12 +51,12 @@
       "name": "Jjaptoon",
       "packageName": "eu.kanade.tachiyomi.extension.ko.jjaptoon",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.jjaptoon-v1.4.14-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.jjaptoon-v1.4.15-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.jjaptoon.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 14,
-      "versionName": "1.4.14",
+      "versionCode": 15,
+      "versionName": "1.4.15",
       "sources": [
         {
           "id": "6220307967993008309",
@@ -172,12 +172,12 @@
       "name": "Wolf.com",
       "packageName": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.11-release.apk",
+        "apkUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.12-release.apk",
         "iconUrl": "https://raw.githubusercontent.com/oneulddu/Korean-Mihon-Extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 11,
-      "versionName": "1.4.11",
+      "versionCode": 12,
+      "versionName": "1.4.12",
       "sources": [
         {
           "id": "4155011175704017961",
